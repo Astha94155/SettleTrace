@@ -10,7 +10,11 @@ An automated Fintech Settlement Q&A Agent that traces payment transactions acros
 6)FastAPI REST API
 7)Interactive Swagger API documentation
 8)Mock financial settlement datasets
-Project Structuresettlement-qa-agent/
+
+
+**Project Structure**
+
+settlement-qa-agent/
 │
 ├── app/
 │   ├── __init__.py
